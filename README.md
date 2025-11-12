@@ -1,9 +1,5 @@
 <h1 align="center">Привет, меня зовут Шестаков Никита 👋</h1>
 
-<p align="center">
-  <img src="https://github.com/Makitoou.png" width="150" style="border-radius:50%">
-</p>
-
 ---
 
 ### 💻 Frontend Developer | Student @ ITMO University
