@@ -34,9 +34,9 @@
 ### 🚀 Проекты
 | 🔧 Проект | 🧩 Технологии | 📜 Описание |
 |-----------|---------------|-------------|
-| [Text Adventure Game](https://github.com/Makitoou/text-quest) | HTML, CSS, JS, Node.js, MySQL | Текстовый веб-квест с авторизацией и системой сохранений |
-| [Tetris Clone](https://github.com/Makitoou/tetris-clone) | HTML, CSS, JS | Классическая игра на чистом JS |
-| [Logic & Graph Calculator](https://github.com/Makitoou/logic-graph-calc) | JS, HTML | Интерактивный калькулятор по булевым функциям и графам |
+| [Выбор-3025](https://github.com/Makitoou/Choice-3025.git) | HTML, CSS, JS, Node.js, MySQL | Бета-версия текстового веб-квеста с авторизацией и системой сохранений |
+| [Тетроникс](https://github.com/Makitoou/FinalProject.git) | HTML, CSS, JS | Классическая игра на чистом JS |
+| [BF & Graph Calculator](https://github.com/CyberBulling/CyberBulling.github.io.git) | JS, HTML, CSS | Интерактивный калькулятор по булевым функциям и графам |
 
 ---
 
