@@ -25,7 +25,6 @@
 
 **Other:**  
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Codeforces](https://img.shields.io/badge/Codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -46,6 +45,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Makitoou&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Makitoou&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="streak"/>
 </p>
+
+---
+
+### 🏆 Competitive Programming
+- [Codeforces: Makitoou__](https://codeforces.com/profile/Makitoou__)
+- [LeetCode: Makitoou](https://leetcode.com/u/Makitoou/)
 
 ---
 
