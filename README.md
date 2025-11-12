@@ -28,6 +28,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Godot Version](https://img.shields.io/badge/Godot-v4.3-blue?logo=godot-engine&logoColor=white)
 
 ---
 
