@@ -35,7 +35,7 @@
 | 🔧 Проект | 🧩 Технологии | 📜 Описание |
 |-----------|---------------|-------------|
 | [Выбор-3025](https://github.com/Makitoou/Choice-3025.git) | HTML, CSS, JS, Node.js, MySQL | Бета-версия текстового веб-квеста с авторизацией и системой сохранений |
-| [Тетроникс](https://github.com/Makitoou/FinalProject.git) | HTML, CSS, JS | Классическая игра на чистом JS |
+| [Тетроникс](https://github.com/Makitoou/FinalProject.git) | HTML, CSS, JS | Классический тетрис на чистом JS |
 | [BF & Graph Calculator](https://github.com/CyberBulling/CyberBulling.github.io.git) | JS, HTML, CSS | Интерактивный калькулятор по булевым функциям и графам |
 
 ---
@@ -49,7 +49,7 @@
 ---
 
 ### 🌐 Контакты
-📫 **Email:** [nikita.shestakov.dev@gmail.com](mailto:nikita.shestakov.dev@gmail.com)  
+📫 **Email:** [n.shestakov.work@gmail.com](mailto:n.shestakov.work@gmail.com)  
 💬 **Telegram:** [@nikituska1](https://t.me/nikituska1)  
 💻 **GitHub:** [Makitoou](https://github.com/Makitoou)
 
