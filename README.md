@@ -51,7 +51,7 @@
 
 ### 🏆 Спортивное программирование
 - [Codeforces: Makitoou__](https://codeforces.com/profile/Makitoou__)
-- [LeetCode: Makitoou](https://leetcode.com/u/Makitoou/)
+[[LeetCode: Makitoou](https://leetcode.com/u/Makitoou/)]: #
 
 ---
 
